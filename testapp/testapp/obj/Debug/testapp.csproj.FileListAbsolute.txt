@@ -1,0 +1,5 @@
+C:\Documents and Settings\singhpr\git\testapp\testapp\bin\testapp.dll
+C:\Documents and Settings\singhpr\git\testapp\testapp\bin\testapp.pdb
+C:\Documents and Settings\singhpr\git\testapp\testapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\singhpr\git\testapp\testapp\obj\Debug\testapp.dll
+C:\Documents and Settings\singhpr\git\testapp\testapp\obj\Debug\testapp.pdb
